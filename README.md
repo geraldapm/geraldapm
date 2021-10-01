@@ -2,7 +2,7 @@
 
 Hello everyone, my name is Geraldhi Aditya Putra Mahayadnya. You can just call me Gerald. I'm a final-year student at Dinamika University (Stikom Surabaya). I'm interested about developing IT Infrastuctures especially in Computer Networking, System Administration, and Internet of Things.
 
-🌱 I’m currently learning about Fullstack Web Development, with front-end website using ReactJS and back-end service using ExpressJS. I hope that I can contribute in IoT development with my new learning skills in Fullstack Web development.
+🌱 I’m currently learning about Fullstack Web Development, with front-end website using ReactJS and back-end service using ExpressJS. I hope that I can contribute in IoT development with my learned skills in Fullstack Web development.
 
 📫 How to reach me:
 Email: geraldiaditya1111@gmail.com
