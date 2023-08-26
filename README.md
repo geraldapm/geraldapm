@@ -15,7 +15,7 @@ public class Greeting {
 <h1 align="center">Hi 👋, I'm Gerald</h1>
 <h3 align="center">A passionate System Engineer from Blitar, Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerald-apm&label=Profile%20views&color=0e75b6&style=flat" alt="gerald-apm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geraldapm&label=Profile%20views&color=0e75b6&style=flat" alt="geraldapm" /> </p>
 
 Hello everyone, my name is Geraldhi Aditya Putra Mahayadnya. You can just call me Gerald. I'm a graduate from Universitas Dinamika (Stikom Surabaya) majoring in Computer Engineering. I'm interested about developing IT Infrastuctures especially in Computer Networking, System Administration, and Internet of Things.
 
@@ -25,17 +25,17 @@ Hello everyone, my name is Geraldhi Aditya Putra Mahayadnya. You can just call m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gerald-apm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerald-apm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/geraldapm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldapm" height="30" width="40" /></a>
 <a href="https://fb.com/gerald.mahayadnya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gerald.mahayadnya" height="30" width="40" /></a>
 <a href="https://instagram.com/gerald_apm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerald_apm" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerald-apm&show_icons=true&locale=en&layout=compact" alt="gerald-apm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldapm&show_icons=true&locale=en&layout=compact" alt="geraldapm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerald-apm&" alt="gerald-apm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldapm&" alt="geraldapm" /></p>
 
 <!--
-**gerald-apm/gerald-apm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**geraldapm/geraldapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
